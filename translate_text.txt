@@ -1,0 +1,2 @@
+Dan tekstovyy fayl. Neobhodimo sozdat novyy fayl
+ubrav iz nego vse nepriemlemye slova. Spisok nepriemlemyh slov nahoditsya v drugom fayle.
